@@ -6,9 +6,9 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "255697608274"
-global.ownername = "𝐷𝛥𝛮𝛮𝑌"
-global.ownernumber = '255697608274'  //owner number 2
+global.ownernomer = "255745778072"
+global.ownername = "SHEDDY"
+global.ownernumber = '255623778072'  //owner number 2
 //put your phone number above
 //let the owner as Danny or you can just put your name
 
@@ -25,7 +25,7 @@ global.autobio = true //auto update bio
 global.anti91 = false //auto block +91 
 global.autoswview = true //auto view status/story
 global.antilink = true; // Default: disabled
-global.autostatusReact = true; // Default: disabled
+global.autostatusReact = false; // Default: disabled
 global.reactEmoji = '😂'; // Default reaction emoji
 //Thank you for using 𝓒𝓡𝓔𝓔𝓟𝓨_𝓜𝓓-𝓥𝟏
 //suppoet us by following our official channel
@@ -42,8 +42,8 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 
 // Reply messages
 global.mess = {
-    done: "`Bot Creepy Done..!`",
-    prem: "`Oh no 😔! This for creepy premium users only...`",
+    done: "`Bot sheddy Done..!`",
+    prem: "`Oh no 😔! This for sheddy premium users only...`",
     admin: "`Only Admins can use this 😩`",
     botAdmin: "`🤖 I'm not an admin here 🚶`",
     owner: "`You are not my owner 😡`",
@@ -54,25 +54,25 @@ global.mess = {
 };
 
 global.ytname = "YT: https://www.youtube.com/@creepy_technology";
-global.socialm = "GitHub: https://github.com/DannyTech20";
+global.socialm = "https://github.com/shedyclever";
 global.location = "Arusha/Tanzania";
-global.ownername = "𝐷𝛥𝛮𝛮𝑌";
-global.botname = "CREEPY_MD-V1"; 
+global.ownername = "SHEDDY";
+global.botname = "SHEDDYBOT"; 
 
 // Sticker details
-global.packname = "Creepy-Tech";
-global.author = "Danny";
+global.packname = "SHEDDY-Tech";
+global.author = "SHEDDY";
 
 // Console view/theme
 global.themeemoji = "🤖";
-global.wm = "Danny";
+global.wm = "SHEDDY";
 
-global.link = "https://whatsapp.com/channel/0029VacQFw65Ui2gGv0Kwk1r";
+global.link = "https://chat.whatsapp.com/IWtFZvkWzn11xQK1zHxZUv";
 
-global.typemenu = "v1";
+global.typemenu = "SHEDDYBOT";
 
 global.xbugtex = {
-    xtxt: "Danny🤖",
+    xtxt: "SHEDDY🤖",
 };
 
 
